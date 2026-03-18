@@ -1,4 +1,5 @@
 # AI-Powered Diabetes Prediction & Monitoring System
+<img width="2470" height="1330" alt="image" src="https://github.com/user-attachments/assets/2e95ee27-0445-4c88-8541-9fb614f4dfcc" />
 
 A distributed, real-time application for predicting and monitoring diabetes risk using machine learning and secure API-based architecture.
 
